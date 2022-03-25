@@ -10,24 +10,17 @@ namespace Project1 {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
-	/// <summary>
-	/// ������ ��� MyForm
-	/// </summary>
 	public ref class MyForm : public System::Windows::Forms::Form
 	{
 	public:
 		MyForm(void)
 		{
 			InitializeComponent();
-			//
-			//TODO: �������� ��� ������������
-			//
+
 		}
 
 	protected:
-		/// <summary>
-		/// ���������� ��� ������������ �������.
-		/// </summary>
+
 		~MyForm()
 		{
 			if (components)
@@ -42,52 +35,28 @@ namespace Project1 {
 
 	protected:
 
-
 	private: System::Windows::Forms::Button^ buttonDigit4;
 	private: System::Windows::Forms::Button^ buttonDigit5;
 	private: System::Windows::Forms::Button^ buttonDigit6;
-
-
-
 	private: System::Windows::Forms::Button^ buttonDigit7;
 	private: System::Windows::Forms::Button^ buttonDigit8;
 	private: System::Windows::Forms::Button^ buttonDigit9;
-	private: System::Windows::Forms::TextBox^ textBoxAnswer;
-
-
-
-
 	private: System::Windows::Forms::Button^ buttonDigit0;
-
+	private: System::Windows::Forms::TextBox^ textBoxAnswer;
 	private: System::Windows::Forms::Button^ buttonZapyataya;
-
 	private: System::Windows::Forms::Button^ buttonClearAll;
 	private: System::Windows::Forms::Button^ buttonPlus;
-
-
 	private: System::Windows::Forms::Button^ buttonMinus;
 	private: System::Windows::Forms::Button^ buttonMultiplication;
-
-
-
 	private: System::Windows::Forms::Button^ buttonDelenie;
 	private: System::Windows::Forms::Button^ buttonEqual;
-
-
 	private: System::Windows::Forms::Button^ buttonClear;
-
-
 	private:
-		/// <summary>
-		/// ������������ ���������� ������������.
-		/// </summary>
+
 		System::ComponentModel::Container^ components;
 
 #pragma region Windows Form Designer generated code
-		/// <summary>
-		/// ��������� ����� ��� ��������� ������������ � �� ���������
-		/// ���������� ����� ������ � ������� ��������� ����.
-		/// </summary>
+
 		void InitializeComponent(void)
 		{
 			this->buttonDigit1 = (gcnew System::Windows::Forms::Button());
@@ -433,7 +402,6 @@ namespace Project1 {
 			&& textBoxAnswer->Text[textBoxAnswer->Text->Length - 1] != '-'
 			&& textBoxAnswer->Text[textBoxAnswer->Text->Length - 1] != '*'
 			&& textBoxAnswer->Text[textBoxAnswer->Text->Length - 1] != '/') {
-
 
 			int answer = 0;
 			String^ a = textBoxAnswer->Text;

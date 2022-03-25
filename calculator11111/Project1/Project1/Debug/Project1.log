@@ -1,9 +1,11 @@
 ﻿  MyForm.cpp
-C:\Users\mk88v\Documents\Cplus-main\calculator11111\Project1\Project1\MyForm.h(450,31): warning C4244: аргумент: преобразование "wchar_t" в "_Ty", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus\calculator11111\Project1\Project1\MyForm.h(450,31): warning C4244: аргумент: преобразование "wchar_t" в "_Ty", возможна потеря данных
           with
           [
               _Ty=char
           ]
-C:\Users\mk88v\Documents\Cplus-main\calculator11111\Project1\Project1\MyForm.cpp(5,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\mk88v\Documents\Cplus\calculator11111\Project1\Project1\MyForm.cpp(5,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Project1.vcxproj -> C:\Users\mk88v\Documents\Cplus-main\calculator11111\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\mk88v\Documents\Cplus\calculator11111\Project1\Debug\Project1.exe
