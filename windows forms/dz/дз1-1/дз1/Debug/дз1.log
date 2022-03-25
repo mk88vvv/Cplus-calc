@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(10,5): error C2653: WinFormsTest: не является именем класса или пространства имен
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(10,19): error C2065: MyForm: необъявленный идентификатор
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(10,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "MyForm"
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(10,26): error C2065: MyForm: необъявленный идентификатор
+C:\Users\igorm\Desktop\C++\windows forms\dz\дз1-1\дз1\MyForm.cpp(11,24): error C2065: MyForm: необъявленный идентификатор

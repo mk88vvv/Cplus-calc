@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(219,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(229,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(246,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(247,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(248,18): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(273,27): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(269): warning C4700: использована неинициализированная локальная переменная "Xleft"
+C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Project1\MyForm.h(270): warning C4700: использована неинициализированная локальная переменная "Xright"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\mk88v\Documents\Cplus-main\27.02 гр\Project1\Debug\Project1.exe

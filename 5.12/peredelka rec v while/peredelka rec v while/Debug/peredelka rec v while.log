@@ -1,0 +1,4 @@
+﻿  peredelka rec v while.cpp
+C:\Users\igorm\Desktop\C++\5.12\peredelka rec v while\peredelka rec v while\peredelka rec v while.cpp(55,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorm\Desktop\C++\5.12\peredelka rec v while\peredelka rec v while\peredelka rec v while.cpp(50): warning C4715: stepen: значение возвращается не при всех путях выполнения
+  peredelka rec v while.vcxproj -> C:\Users\igorm\Desktop\C++\5.12\peredelka rec v while\Debug\peredelka rec v while.exe

@@ -1,0 +1,5 @@
+﻿  class vector.cpp
+C:\Users\igorm\Desktop\C++\class vector\class vector\class vector.cpp(75,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igorm\Desktop\C++\class vector\class vector\class vector.cpp(86,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\igorm\Desktop\C++\class vector\class vector\class vector.cpp(113,9): warning C4930: vec vector5(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  class vector.vcxproj -> C:\Users\igorm\Desktop\C++\class vector\Debug\class vector.exe
